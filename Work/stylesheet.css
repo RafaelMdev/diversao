@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+#quadrado {
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    height: 625px;
+}
+
+#bt {
+    position: absolute;
+    background-color: white;
+    margin-left: 500px;
+    margin-top: 200px;
+    cursor: pointer;
+    width: 400px;
+    background-color: white;
+    font-size: 20px;
+    font: times;
+
+}
